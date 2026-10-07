@@ -43,6 +43,7 @@ yarn-error.log*
 .env.*.local
 backend/.env
 frontend/.env
+.vercel/
 
 # IDE & Editor files
 .idea/
