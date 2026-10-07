@@ -1,4 +1,5 @@
 {
+  "name": "ai-vendor-invoice-auditor",
   "rewrites": [
     {
       "source": "/(.*)",
